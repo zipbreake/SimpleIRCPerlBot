@@ -1,0 +1,11 @@
+3  [[ Ayuda del bot ]]   5-= Bot de ejemplo =-
+ 
+ - Ayuda rápida:
+     + 12/msg nick_bot <comando>. Para utilizar el comando.
+     + 12/msg nick_bot <comando> Para más información.
+ 
+ - Comandos de gestión:
+     12COMANDO    Descripcion del comando del bot
+ 
+4NOTA: Este bot es un ejemplo desarrollado por ZipBreake.
+Para más información visita http://jfv.es
